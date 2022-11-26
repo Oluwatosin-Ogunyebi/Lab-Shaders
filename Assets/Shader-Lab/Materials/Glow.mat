@@ -48,13 +48,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Alpha_Value: 1
     - _ExpansionAmount: 5
-    - _GlowPower: -1.94
-    - _PulseRate: 10
+    - _GlowPower: 2.83
+    - _PulseRate: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _GlowColour: {r: 1, g: 0, b: 0.08972883, a: 0}
+    - _GlowColour: {r: 0.9529412, g: 0.031372532, b: 0.82226896, a: 0}
     - _Object_Offset: {r: 3, g: 8.18, b: 0, a: 0}
     - _Object_Tiling: {r: 2, g: 1, b: 0, a: 0}
     - _PostionOffset: {r: 1, g: 1, b: 0, a: 0}
